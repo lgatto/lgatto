@@ -1,4 +1,5 @@
-- 📉️ Professor of Bioinformatics at the de Duve Institute, at UCLouvainat in Brussels, Belgium
+- 📉️ Professor of Bioinformatics at the [de Duve Institute](https://www.deduveinstitute.be/), at [UCLouvain](https://uclouvain.be/) in Brussels, Belgium
+- - More [about me and my work](https://lgatto.github.io/about/)
 - 😄 Pronouns: he/him
 - 🐘️ <a rel="me" href="https://fosstodon/@lgatto">Join me on Mastodon</a>
 
