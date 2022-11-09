@@ -1,4 +1,6 @@
-### Hi there 👋
+- 📉️ Professor of Bioinformatics at the de Duve Institute, at UCLouvainat in Brussels, Belgium
+- 😄 Pronouns: he/him
+- 🐘️ <a rel="me" href="https://fosstodon/@lgatto">Join me on Mastodon</a>
 
 <!--
 **lgatto/lgatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
