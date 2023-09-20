@@ -2,6 +2,8 @@
 - ⚡ More [about me and my work](https://lgatto.github.io/about/)
 - 🐘️ <a rel="me" href="https://fosstodon.org/@lgatto">Join me on Mastodon</a>
 
+https://github-readme-stats.vercel.app/api?username=lgatto&count_private=true
+
 <!--
 **lgatto/lgatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
