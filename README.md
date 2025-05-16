@@ -1,7 +1,7 @@
 - 📉️ Professor of Bioinformatics at the [de Duve Institute](https://www.deduveinstitute.be/), [UCLouvain](https://uclouvain.be/) in Brussels, Belgium
 - ⚡ More [about me and my work](https://lgatto.github.io/about/)
 - 🔭 I have also an account on [codeberg.org](https://codeberg.org/lgatto)
-- 🐘️ <a rel="me" href="https://fosstodon.org/@lgatto">Join me on Mastodon</a>
+- 🐘️ <a rel="me" href="https://fediscience.org/@lgatto">Join me on Mastodon</a>
 
 <!--
 **lgatto/lgatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
