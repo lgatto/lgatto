@@ -1,6 +1,8 @@
-- 📉️ Full professor of Bioinformatics at the [de Duve Institute](https://www.deduveinstitute.be/), [UCLouvain](https://uclouvain.be/) in Brussels, Belgium
-- ⚡ More [about me and my work](https://lgatto.github.io/about/)
-- 🔭 I have also an account on [codeberg.org](https://codeberg.org/lgatto)
+- 📉️ Full professor of Bioinformatics at the [de Duve Institute](https://www.deduveinstitute.be/), [UCLouvain](https://uclouvain.be/) in Brussels, Belgium.
+- Lab Github org [UCLouvain-CBIO](https://github.com/UCLouvain-CBIO/) and [www](https://lgatto.github.io/cbio-lab/). 
+- Core facility Github org: [UCLouvain-BIOINFO](https://github.com/UCLouvain-BIOINFO/) and [www](https://sites.uclouvain.be/training/bioinfo/).
+- ⚡ More [about me and my work](https://lgatto.github.io/about/).
+- 🔭 I have also an account on [codeberg.org](https://codeberg.org/lgatto).
 - 🐘️ <a rel="me" href="https://fediscience.org/@lgatto">Join me on Mastodon</a>
 
 <!--
